@@ -1,10 +1,6 @@
 ###  How to add Live link 
- example  ' ### Live Link [procoder-blog-app](https://procoderblogapp.netlify.app/)'
- 
- Live Link [procoder-blog-app](https://procoderblogapp.netlify.app/)
-  
-###   How to add image 
-
-  example '<img src="https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/projects%2Fprocoder-blog-app-xl.png?alt=media&token=5b1c12d6-b417-41e2-95ff-3a12d18fc63a" alt="procoder">'
-  
- <img src="https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/projects%2Fprocoder-blog-app-xl.png?alt=media&token=5b1c12d6-b417-41e2-95ff-3a12d18fc63a" alt="procoder">
+example  ' ### Live Link [procoder-blog-app](https://procoderblogapp.netlify.app/)'
+Live Link [procoder-blog-app](https://procoderblogapp.netlify.app/)
+### How to add image 
+example '<img src="https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/projects%2Fprocoder-blog-app-xl.png?alt=media&token=5b1c12d6-b417-41e2-95ff-3a12d18fc63a" alt="procoder">'
+<img src="https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/projects%2Fprocoder-blog-app-xl.png?alt=media&token=5b1c12d6-b417-41e2-95ff-3a12d18fc63a" alt="procoder">
